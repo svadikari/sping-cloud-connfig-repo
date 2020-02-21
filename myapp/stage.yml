@@ -1,0 +1,4 @@
+db:
+  url: domain.stage.com/stageschema
+  user: stage-foo
+  password: bar

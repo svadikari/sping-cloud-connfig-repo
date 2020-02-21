@@ -1,0 +1,4 @@
+db:
+  url: domain.test.com/testschema
+  user: test-foo
+  password: bar

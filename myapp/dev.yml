@@ -1,4 +1,4 @@
 db:
-  url: domain.com/schema
+  url: domain.dev.com/devschema
   user: foo
   password: bar

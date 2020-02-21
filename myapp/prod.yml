@@ -1,0 +1,4 @@
+db:
+  url: domain.prod.com/prodschema
+  user: prod-foo
+  password: bar

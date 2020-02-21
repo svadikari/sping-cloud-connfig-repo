@@ -1,4 +1,0 @@
-db:
-  url: domain.dev.com/devschema
-  user: foo
-  password: bar

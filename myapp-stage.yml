@@ -1,4 +1,4 @@
 db:
-  uri: updated-stage.com/stage
+  uri: stage.com/stage
   user: stage
   password: pwd
